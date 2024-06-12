@@ -6,3 +6,7 @@ Instruções para o Tabalho II estão disponíveis na pasta específica juntamen
 Na pasta "Exemplo" uma ideia de interação para o trabalho.
 
 Dicas: Google Forms, Kahoot e Genially.
+
+Preencher formulário com seu nome e link da pasta do seu repositório (acrescentar os membros da equipe):
+
+https://almeida-cma.github.io/receber/
